@@ -1,0 +1,2 @@
+# gtiku
+study git
